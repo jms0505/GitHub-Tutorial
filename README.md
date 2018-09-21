@@ -1,4 +1,4 @@
 # GitHub-Tutorial
 Tutorial
-This is text added from the web!
-Live from Austin NIC
+This is text added from the web.
+Github is cool!
